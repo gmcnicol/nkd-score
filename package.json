@@ -1,0 +1,22 @@
+{
+  "name": "nkdtrdr-news-fetcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "feedparser": "^2.2.10",
+    "moment": "^2.27.0",
+    "node-fetch": "^2.6.1",
+    "node-rules": "^5.0.0",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
